@@ -1,4 +1,4 @@
-# Smart Notes
+# [Smart Notes](https://smart-notes-47nc881lh-komal-rajs-projects.vercel.app/)
 
 An AI-powered personal notes app built with Next.js, TypeScript, Supabase, and OpenAI.
 
